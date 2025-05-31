@@ -214,7 +214,7 @@ Výsledky poskytují **solidní základ** pro další analýzy a rozhodování v
 
 **Autor:** Filip Hedvik  
 **Projekt:** SQL Analýza dostupnosti potravin  
-**Rok:** 2024  
+**Rok:** 2025  
 
 ---
 
